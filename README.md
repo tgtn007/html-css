@@ -1,2 +1,2 @@
 # html-css
-Basic Html and CSS webpage
+This webpage is based on a greetings card
